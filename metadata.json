@@ -1,0 +1,6 @@
+{
+  "name": "Yayasan Al-Huda Tundungan",
+  "description": "Website Profil Resmi Yayasan Al-Huda Tundungan, Krian - Sidoarjo menaungi SMP Al-Huda & Pondok Pesantren Al-Huda.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
